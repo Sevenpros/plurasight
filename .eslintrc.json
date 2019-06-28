@@ -17,6 +17,7 @@
     },
     "rules": {
        "no-console":"off",
-       "no-duplicate-at-import-rules": false
+       "no-duplicates":0
+       
     }
   }
